@@ -19,7 +19,7 @@
     },
     "adminPassword": {
       "type": "string",
-      "defaultValue":"password"
+      "defaultValue":"theP@ssw0rd1"
       }
     ,
      "dnsLabelPrefix": {
