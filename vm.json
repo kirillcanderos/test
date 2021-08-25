@@ -9,7 +9,7 @@
     }
   },
   "parameters": {
-    "adminUsername": "test",
+    "adminUsername":"test",
     "adminPassword":"test",
     "dnsLabelPrefix": {
       "type": "string",
